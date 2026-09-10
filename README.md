@@ -16,6 +16,36 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 
 <!-- PENDING: confirm that the code, CAD, schematic and photographs correspond to the final competition robot. -->
 
+## Robot Gallery
+
+<table>
+<tr><th>Front</th><th>Rear</th><th>Left</th></tr>
+<tr>
+<td><img width="240" alt="Robot front view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" /></td>
+<td><img width="240" alt="Robot rear view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" /></td>
+<td><img width="240" alt="Robot left view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" /></td>
+</tr>
+<tr><th>Right</th><th>Top</th><th>Bottom</th></tr>
+<tr>
+<td><img width="240" alt="Robot right view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" /></td>
+<td><img width="240" alt="Robot top view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" /></td>
+<td><img width="240" alt="Robot bottom view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" /></td>
+</tr>
+</table>
+
+<!-- PENDING: add a team group photo and check that the banner, robot views and portraits are accessible for judging. -->
+
+## Challenge Videos
+
+### Open Challenge
+
+<!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Open Challenge driving. -->
+
+### Obstacle Challenge
+
+<!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Obstacle Challenge driving. -->
+
+
 ## Mechanical Design
 
 We control propulsion and steering separately. A DC motor provides drive through the TB6612FNG motor driver, while a servo moves the steering linkage. This lets us reverse the motor without changing how we command the steering. Our component list names a **GM25-370 6V 100RPM motor** and an **SG90 servo**; the voltage and speed in the motor name are part ratings.
@@ -379,35 +409,6 @@ The dashboards are enabled in the current sketches for testing. For competition 
 
 <!-- PENDING: record the tested board definitions, library/OpenMV firmware versions, exact upload and persistent startup steps, and confirm the final competition configuration with wireless disabled. -->
 <!-- PENDING: confirm the submitted repository URL, required historical commits, event deadline and final version notes before submission. -->
-
-## Challenge Videos
-
-### Open Challenge
-
-<!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Open Challenge driving. -->
-
-### Obstacle Challenge
-
-<!-- PENDING: add a public or unlisted YouTube link showing at least 30 seconds of autonomous Obstacle Challenge driving. -->
-
-## Robot Gallery
-
-<table>
-<tr><th>Front</th><th>Rear</th><th>Left</th></tr>
-<tr>
-<td><img width="240" alt="Robot front view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot rear view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot left view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" /></td>
-</tr>
-<tr><th>Right</th><th>Top</th><th>Bottom</th></tr>
-<tr>
-<td><img width="240" alt="Robot right view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot top view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot bottom view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" /></td>
-</tr>
-</table>
-
-<!-- PENDING: add a team group photo and check that the banner, robot views and portraits are accessible for judging. -->
 
 ## Meet the Team
 
