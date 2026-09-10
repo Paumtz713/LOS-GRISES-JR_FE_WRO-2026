@@ -29,8 +29,13 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 <tr>
 <td><img width="240" alt="Robot right view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" /></td>
 <td><img width="240" alt="Robot top view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot bottom view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" /></td>
-</tr>
+<td align="center">
+
+  <img height="240" alt="Robot bottom view"
+
+       src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" />
+
+</td>
 </table>
 
 <!-- PENDING: add a team group photo and check that the banner, robot views and portraits are accessible for judging. -->
