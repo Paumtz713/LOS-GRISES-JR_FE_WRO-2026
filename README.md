@@ -72,7 +72,6 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 </tr>
 </table>
 
-
 ## Challenge Videos
 
 ### Open Challenge
