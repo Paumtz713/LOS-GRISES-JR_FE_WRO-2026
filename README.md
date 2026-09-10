@@ -19,26 +19,49 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 ## Robot Gallery
 
 <table>
-<tr><th>Front</th><th>Rear</th><th>Left</th></tr>
 <tr>
-<td><img width="240" alt="Robot front view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot rear view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot left view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" /></td>
+  <th align="center">Front</th>
+  <th align="center">Rear</th>
+  <th align="center">Left</th>
 </tr>
-<tr><th>Right</th><th>Top</th><th>Bottom</th></tr>
+
 <tr>
-<td><img width="240" alt="Robot right view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" /></td>
-<td><img width="240" alt="Robot top view" src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" /></td>
-<td align="center">
+  <td align="center">
+    <img width="240" alt="Robot front view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" />
+  </td>
+  <td align="center">
+    <img width="240" alt="Robot rear view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" />
+  </td>
+  <td align="center">
+    <img width="240" alt="Robot left view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" />
+  </td>
+</tr>
 
-  <img height="240" alt="Robot bottom view"
+<tr>
+  <th align="center">Right</th>
+  <th align="center">Top</th>
+  <th align="center">Bottom</th>
+</tr>
 
-       src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" />
-
-</td>
+<tr>
+  <td align="center">
+    <img width="240" alt="Robot right view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" />
+  </td>
+  <td align="center">
+    <img width="240" alt="Robot top view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" />
+  </td>
+  <td align="center" valign="middle">
+    <img width="160" alt="Robot bottom view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" />
+  </td>
+</tr>
 </table>
 
-<!-- PENDING: add a team group photo and check that the banner, robot views and portraits are accessible for judging. -->
 
 ## Challenge Videos
 
