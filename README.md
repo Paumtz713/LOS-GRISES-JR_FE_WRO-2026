@@ -26,15 +26,15 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 </tr>
 
 <tr>
-  <td align="center">
+  <td align="center" valign="middle">
     <img width="240" alt="Robot front view"
          src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Front%20(3).jpeg?raw=true" />
   </td>
-  <td align="center">
+  <td align="center" valign="middle">
     <img width="240" alt="Robot rear view"
          src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Back%20(3).jpeg?raw=true" />
   </td>
-  <td align="center">
+  <td align="center" valign="middle">
     <img width="240" alt="Robot left view"
          src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Left%20(3).jpeg?raw=true" />
   </td>
@@ -43,28 +43,24 @@ Throughout this guide, motor percentages mean **PWM commands**, and servo angles
 <tr>
   <th align="center">Right</th>
   <th align="center">Top</th>
-  <th align="center"></th>
+  <th align="center">Bottom</th>
 </tr>
 
 <tr>
-  <td align="center">
+  <td align="center" valign="middle">
     <img width="240" alt="Robot right view"
          src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Right%20(3).jpeg?raw=true" />
   </td>
-  <td align="center">
+  <td align="center" valign="middle">
     <img width="240" alt="Robot top view"
          src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Top%20(3).jpeg?raw=true" />
   </td>
-  <td></td>
+  <td align="center" valign="middle">
+    <img height="240" alt="Robot bottom view"
+         src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" />
+  </td>
 </tr>
 </table>
-
-<p align="center"><strong>Bottom</strong></p>
-
-<p align="center">
-  <img width="220" alt="Robot bottom view"
-       src="https://github.com/RSA967/Los-Grises-WRO-2026-MX/blob/main/v-photos/Bottom%20(2).jpeg?raw=true" />
-</p>
 
 ## Challenge Videos
 
